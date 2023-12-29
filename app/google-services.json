@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148892278374",
+    "project_id": "socialmediaapp-859eb",
+    "storage_bucket": "socialmediaapp-859eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148892278374:android:9022f1b397fc5ce50057a7",
+        "android_client_info": {
+          "package_name": "com.onurcancansu.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPitupO3ze43_pRfwrMyrdV9a4RqpK-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
